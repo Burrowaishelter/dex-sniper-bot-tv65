@@ -1,4 +1,4 @@
-# 
+# new dex sniper bot Executor | cross-chain-arbitrage + slippage-control is the best dex sniper bot, featuring cross-chain-arbitrage and slippage-control. Smart, fast, and optimized
 
 
 
